@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/build",
+  "command": "/usr/bin/clang++-14 -g -std=gnu++17 -o CMakeFiles/ex01.dir/src/td02_ex01.cpp.o -c /home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex01.cpp",
+  "file": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex01.cpp",
+  "output": "CMakeFiles/ex01.dir/src/td02_ex01.cpp.o"
+},
+{
+  "directory": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/build",
+  "command": "/usr/bin/clang++-14 -g -std=gnu++17 -o CMakeFiles/ex02.dir/src/td02_ex02.cpp.o -c /home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex02.cpp",
+  "file": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex02.cpp",
+  "output": "CMakeFiles/ex02.dir/src/td02_ex02.cpp.o"
+},
+{
+  "directory": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/build",
+  "command": "/usr/bin/clang++-14 -g -std=gnu++17 -o CMakeFiles/ex03.dir/src/td02_ex03.cpp.o -c /home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex03.cpp",
+  "file": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex03.cpp",
+  "output": "CMakeFiles/ex03.dir/src/td02_ex03.cpp.o"
+},
+{
+  "directory": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/build",
+  "command": "/usr/bin/clang++-14 -g -std=gnu++17 -o CMakeFiles/ex04.dir/src/td02_ex04.cpp.o -c /home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex04.cpp",
+  "file": "/home/26_epigim-3/alice.ngo/TD_CPP/TD2/src/td02_ex04.cpp",
+  "output": "CMakeFiles/ex04.dir/src/td02_ex04.cpp.o"
+}
+]
